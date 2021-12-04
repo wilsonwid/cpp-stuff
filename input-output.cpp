@@ -10,6 +10,8 @@ using namespace std;
 
 int main(){
     string word;
+    cout << "Please input the word you wish to display: \n";
+
     while (cin >> word){
         cout << "The current word is: " << word << endl;
     }

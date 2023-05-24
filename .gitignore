@@ -1,0 +1,6 @@
+*.dSYM
+*
+!/**/
+!*.*
+/output
+.vscode/
